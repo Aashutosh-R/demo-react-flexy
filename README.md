@@ -4,7 +4,7 @@
    </a>
 </p>
 <h1 align="center">
-   <a href="https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=376" target="_blank" align="center">
+   <a href="https://www.wrappixel.com/templates/free-material-ui-template/?ref=376" target="_blank" align="center">
        Flexy React Material Admin Free
    </a>
 </h1>
